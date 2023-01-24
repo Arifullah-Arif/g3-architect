@@ -198,6 +198,13 @@ nav ul li {
       
       header {
         background: rgba(3, 233, 106, 0.1);}
+
+        main{
+          width: 150px;
+        }
+        footer{
+          width: 200px;
+        }
         nav {
             flex-direction: column;
              align-items: center;
